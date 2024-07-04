@@ -1,1 +1,1 @@
-{}
+{"LoyaltyProgram":[{"paramType":"string","paramName":"name_","value":"Uniswap Liquidity Provider Rewards"},{"paramType":"string","paramName":"symbol_","value":"ULPR"}],"UniswapCloneWithLoyalty":[{"paramType":"address","paramName":"_rewardToken","value":"0x1234567890123456789012345678901234567890"},{"paramType":"uint256","paramName":"_rewardPerBlock","value":"1000000000000000000"}]}
